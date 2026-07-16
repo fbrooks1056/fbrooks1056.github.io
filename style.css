@@ -12,8 +12,10 @@ h1, h2 {
   color: #E838A2;
 }
 
+/* Regular links use a darker shade of the heading magenta so normal-sized
+   link text still meets contrast requirements against the white background */
 a {
-  color: #E838A2;
+  color: #A61E70;
 }
 
 a:hover {
